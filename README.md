@@ -5,6 +5,7 @@ Overview
 This project is a Java-based Hotel Management System designed to manage hotel room bookings, food orders, billing, and room deallocation. It supports different room types (Luxury and Deluxe, Single and Double) and includes features such as room availability checks, customer details management, and serialization for persistent data storage.
 
 Features
+
 Room Types: Supports Luxury Double, Deluxe Double, Luxury Single, and Deluxe Single rooms with varying charges and amenities.
 Booking System: Allows users to book rooms by providing customer details and selecting available room numbers.
 Food Ordering: Customers can order food items (Sandwich, Pasta, Noodles, Coke) with associated prices.
@@ -32,7 +33,7 @@ A Java IDE (e.g., IntelliJ IDEA, Eclipse) or command-line environment for compil
 How to Run
 Clone the Repository:
 
-git clone https://github.com/your-username/hotel-management-system.git
+git clone https://https://github.com/panditrishi54/Hotel-management-system.git
 cd hotel-management-system
 
 Compile the Code:
