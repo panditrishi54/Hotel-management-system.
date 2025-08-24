@@ -33,7 +33,7 @@ A Java IDE (e.g., IntelliJ IDEA, Eclipse) or command-line environment for compil
 How to Run
 Clone the Repository:
 
-git clone https://https://github.com/panditrishi54/Hotel-management-system.git
+git clone https://github.com/panditrishi54/Hotel-management-system.git
 cd hotel-management-system
 
 Compile the Code:
